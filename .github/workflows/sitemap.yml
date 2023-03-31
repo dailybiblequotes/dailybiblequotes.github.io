@@ -11,13 +11,13 @@ jobs:
 
     steps:
     - name: Checkout the repo
-      uses: actions/checkout@v3
+      uses: actions/checkout@v2
       with:
         fetch-depth: 0 
 
     - name: Generate the sitemap
       id: sitemap
-      uses: cicirello/generate-sitemap@v1.9.1
+      uses: cicirello/generate-sitemap@v1
       with:
         base-url-path: https://dailybiblequotes.github.io/
 
