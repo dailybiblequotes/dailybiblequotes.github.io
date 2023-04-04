@@ -1,19 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://dailybiblequotes.github.io</id>
+    <id>http://localhost:4000</id>
     <title>Daily Bible Quotes</title>
-    <updated>2023-03-31T04:38:07.820Z</updated>
+    <updated>2023-04-04T15:43:01.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://dailybiblequotes.github.io"/>
-    <link rel="self" href="https://dailybiblequotes.github.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>Daily Bible Quotes is a website that provides daily inspirational quotes from the Holy Bible to strengthen your faith.</subtitle>
-    <logo>https://dailybiblequotes.github.io/images/avatar.png</logo>
-    <icon>https://dailybiblequotes.github.io/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2023, Daily Bible Quotes</rights>
     <entry>
+        <title type="html"><![CDATA[🙏 Waiting for God's Direction? 🤔]]></title>
+        <id>http://localhost:4000/post/4on8DaJOi/</id>
+        <link href="http://localhost:4000/post/4on8DaJOi/">
+        </link>
+        <updated>2023-04-04T15:06:40.000Z</updated>
+        <summary type="html"><![CDATA[<p>Trusting God's plan and obeying His guidance is the key to unlocking your destiny 🗝️</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Trusting God's plan and obeying His guidance is the key to unlocking your destiny 🗝️</p>
+<!-- more -->
+<div class="videoContainer">
+  <iframe  src="https://www.youtube.com/embed/XaQwNjyILos" title="Waiting for God's Direction? | Daily Bible Quotes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<audio controls>
+  <source src="/audio/4on8DaJOi.mp3" type="audio/mpeg">
+</audio>
+<p>🌟 Sometimes in life, we seek guidance from above, waiting for a sign or a clear path to follow. We pray for answers to our most pressing questions. We believe that God will provide us with the answers we seek.</p>
+<p>🤔 However, have you ever considered that God might be waiting for you to take action and obey what He has already told you to do? He has given you the tools, the knowledge, and the resources to move forward, but fear and hesitation hold you back.</p>
+<p>🔑 Obedience is the key to unlocking the doors of your destiny. Trust in God's plan for your life, and have faith that He will guide you along the way.</p>
+<p>🙌 So, if you find yourself waiting for direction from God, take a moment to reflect on what He has already told you to do. Perhaps the answers you seek are already within your grasp. Remember to have faith and take action! 💪</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Navigating Life's Challenges with a Belief in God]]></title>
-        <id>https://dailybiblequotes.github.io/post/tzG74GqVr/</id>
-        <link href="https://dailybiblequotes.github.io/post/tzG74GqVr/">
+        <id>http://localhost:4000/post/tzG74GqVr/</id>
+        <link href="http://localhost:4000/post/tzG74GqVr/">
         </link>
         <updated>2023-03-30T08:16:05.000Z</updated>
         <summary type="html"><![CDATA[<p>🌟Believing in God: Finding Comfort and Direction in Life 🙏</p>
@@ -34,8 +56,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[About Us]]></title>
-        <id>https://dailybiblequotes.github.io/post/about/</id>
-        <link href="https://dailybiblequotes.github.io/post/about/">
+        <id>http://localhost:4000/post/about/</id>
+        <link href="http://localhost:4000/post/about/">
         </link>
         <updated>2023-03-29T04:10:13.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
