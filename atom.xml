@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dailybiblequotes.github.io</id>
     <title>Daily Bible Quotes</title>
-    <updated>2023-04-12T00:37:27.656Z</updated>
+    <updated>2023-04-12T13:25:44.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dailybiblequotes.github.io"/>
     <link rel="self" href="https://dailybiblequotes.github.io/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://dailybiblequotes.github.io/images/avatar.png</logo>
     <icon>https://dailybiblequotes.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Daily Bible Quotes</rights>
+    <entry>
+        <title type="html"><![CDATA[🙏 Morning Prayer]]></title>
+        <id>https://dailybiblequotes.github.io/post/d9IPd3KDM/</id>
+        <link href="https://dailybiblequotes.github.io/post/d9IPd3KDM/">
+        </link>
+        <updated>2023-04-12T01:25:34.000Z</updated>
+        <summary type="html"><![CDATA[<p>🌞 Starting the day with gratitude and asking for guidance and strength from God.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>🌞 Starting the day with gratitude and asking for guidance and strength from God.</p>
+<!-- more -->
+<div class="videoContainer">
+  <iframe  src="https://www.youtube.com/embed/fj052EMd_uo" title="Morning Prayer | Daily Bible Quotes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<audio controls>
+  <source src="/audio/d9IPd3KDM.mp3" type="audio/mpeg">
+</audio>
+<p>🙏 Dear God,</p>
+<p>🌅 As I begin this new day, my heart overflows with gratitude for the gift of life and your countless blessings. 🙌 Please guide me and give me the strength to face any challenges ahead.</p>
+<p>💡 Grant me wisdom to make good decisions, courage to overcome obstacles, and patience to trust your timing and plan for my life.</p>
+<p>🕯️ Help me to be a shining light to those around me, spreading kindness and compassion wherever I go. May my words and actions reflect your love and grace.</p>
+<p>🙏 Thank you for being present in my life and bringing hope and peace. Bless this day and all that it holds.</p>
+<p>🙏 In Jesus' name, I pray. Amen.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🙏 Trusting God's Plan 🙏]]></title>
         <id>https://dailybiblequotes.github.io/post/pdE7fge_R/</id>
