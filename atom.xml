@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dailybiblequotes.github.io</id>
     <title>Daily Bible Quotes</title>
-    <updated>2023-06-28T14:26:45.978Z</updated>
+    <updated>2023-07-02T13:46:41.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dailybiblequotes.github.io"/>
     <link rel="self" href="https://dailybiblequotes.github.io/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://dailybiblequotes.github.io/images/avatar.png</logo>
     <icon>https://dailybiblequotes.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Daily Bible Quotes</rights>
+    <entry>
+        <title type="html"><![CDATA[🌟 The Faithful Path 🙏]]></title>
+        <id>https://dailybiblequotes.github.io/post/Iz5NqQwIr/</id>
+        <link href="https://dailybiblequotes.github.io/post/Iz5NqQwIr/">
+        </link>
+        <updated>2023-07-02T13:41:54.000Z</updated>
+        <summary type="html"><![CDATA[<p>Stay strong in your Christian journey and find inspiration in these wise sayings!</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Stay strong in your Christian journey and find inspiration in these wise sayings!</p>
+<!-- more -->
+<div class="videoContainer">
+  <iframe  src="https://www.youtube.com/embed/UgOvB5mEY1U" title="The Faithful Path | Daily Bible Quotes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<audio controls>
+  <source src="/audio/UgOvB5mEY1U.m4a" type="audio/mpeg">
+</audio>
+<p>🌿 Trust in God's plan; He turns struggles into stepping stones and trials into triumphs. 🌈<br>
+🙌 Keep faith burning bright, for in the darkest of nights, stars shine the brightest. ✨<br>
+🕊️ Let forgiveness be your shield, and love be your guiding light. ❤️<br>
+🌱 Pray often, for it nourishes the soul and opens doors to God's blessings. 🙏<br>
+⛪️ Embrace community, for the body of Christ is strengthened through fellowship. 🤝<br>
+🔥 Surrender your worries to the Lord; He is the flame that consumes fear and ignites hope. 🔥</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🌟 Shine Bright Like a Star! 🌟]]></title>
         <id>https://dailybiblequotes.github.io/post/atQ-bH6l4/</id>
@@ -197,31 +221,6 @@
 <p>🙌 When life gets overwhelming, it's easy to feel weighed down by worries and fears. But did you know that surrendering your worries to God can bring you strength and peace of mind? Trusting in a higher power can give you the courage to face challenges and overcome obstacles.</p>
 <p>🌟 By releasing your worries to God, you allow yourself to let go of control and have faith that everything will work out as it should. This can be a liberating feeling, as you no longer have to carry the weight of the world on your shoulders. Instead, you can focus on the present moment and trust that the future will unfold as it should.</p>
 <p>🙏 Prayer can be powerful tools for surrendering your worries to God. Take some time each day to connect with your spirituality and release any concerns you may have. You may find that doing so brings a sense of calm and clarity to your mind and heart.</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gratitude is Key 🔑]]></title>
-        <id>https://dailybiblequotes.github.io/post/jWPzzAGV7/</id>
-        <link href="https://dailybiblequotes.github.io/post/jWPzzAGV7/">
-        </link>
-        <updated>2023-04-06T02:07:27.000Z</updated>
-        <summary type="html"><![CDATA[<p>Cultivate gratitude, attract abundance &amp; cherish loved ones. Spread kindness, make a positive impact! 🙏❤️</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>Cultivate gratitude, attract abundance &amp; cherish loved ones. Spread kindness, make a positive impact! 🙏❤️</p>
-<!-- more -->
-<div class="videoContainer">
-  <iframe  src="https://www.youtube.com/embed/m7RQmssbKiA" title="Gratitude is Key | Daily Bible Quotes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-<audio controls>
-  <source src="/audio/jWPzzAGV7.m4a" type="audio/mpeg">
-</audio>
-<p>🙌 Gratitude = Meaningful life foundation</p>
-<p>👀 Acknowledge blessings = Positive mindset, attract abundance</p>
-<p>🙏 Thank God for blessings = Cultivate gratitude, remember good</p>
-<p>💪 Strength = Support &amp; love from others, cherish family &amp; friends</p>
-<p>🌟 Each day = New opportunity to live with gratitude, spread kindness, make impact</p>
-<p>👉 Go forth = Grateful heart, receive blessings beyond measure</p>
-<p>🙏❤️ Amen</p>
 ]]></content>
     </entry>
 </feed>
