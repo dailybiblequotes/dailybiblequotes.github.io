@@ -1,19 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://dailybiblequotes.github.io</id>
+    <id>http://localhost:4000</id>
     <title>Daily Bible Quotes</title>
-    <updated>2023-07-07T14:59:06.660Z</updated>
+    <updated>2023-07-26T14:23:24.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://dailybiblequotes.github.io"/>
-    <link rel="self" href="https://dailybiblequotes.github.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>Daily Bible Quotes is a website that provides daily inspirational quotes from the Holy Bible to strengthen your faith.</subtitle>
-    <logo>https://dailybiblequotes.github.io/images/avatar.png</logo>
-    <icon>https://dailybiblequotes.github.io/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2023, Daily Bible Quotes</rights>
     <entry>
+        <title type="html"><![CDATA[🌟 Embrace the Journey 🌟]]></title>
+        <id>http://localhost:4000/post/ilg_idyW5/</id>
+        <link href="http://localhost:4000/post/ilg_idyW5/">
+        </link>
+        <updated>2023-07-26T02:23:09.000Z</updated>
+        <summary type="html"><![CDATA[<p>🚀 Let your faith be your guiding star. 🌟 Trust the process and embrace every step of your journey! 🙏</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>🚀 Let your faith be your guiding star. 🌟 Trust the process and embrace every step of your journey! 🙏</p>
+<!-- more -->
+<div class="videoContainer">
+  <iframe  src="https://www.youtube.com/embed/zkLXfBSM3GQ" title="Embrace the Journey | Daily Bible Quotes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<p>🌱 Just as a seed grows into a mighty tree, your faith will flourish with patience and perseverance. 🌳 Trust in God's plan! 💫</p>
+<p>💪 In times of trial, remember: &quot;Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving, let your requests be made known to God.&quot; - Philippians 4:6 🙏</p>
+<p>🌈 Each day is a new canvas to paint your dreams. 🎨 Let the colors of hope and love fill your heart, and watch miracles unfold. ✨</p>
+<p>🌿 Even in the darkest moments, God's light shines through. 🔥 Keep your faith burning, for His grace is sufficient. 💖</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[🌟 Walking by Faith 🙏]]></title>
-        <id>https://dailybiblequotes.github.io/post/Hwb_aayVX/</id>
-        <link href="https://dailybiblequotes.github.io/post/Hwb_aayVX/">
+        <id>http://localhost:4000/post/Hwb_aayVX/</id>
+        <link href="http://localhost:4000/post/Hwb_aayVX/">
         </link>
         <updated>2023-07-07T02:45:34.000Z</updated>
         <summary type="html"><![CDATA[<p>Trust in the Lord and find strength for your journey. Let these words inspire your soul today. 🌈⛪️</p>
@@ -35,8 +54,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[🌟 The Faithful Path 🙏]]></title>
-        <id>https://dailybiblequotes.github.io/post/Iz5NqQwIr/</id>
-        <link href="https://dailybiblequotes.github.io/post/Iz5NqQwIr/">
+        <id>http://localhost:4000/post/Iz5NqQwIr/</id>
+        <link href="http://localhost:4000/post/Iz5NqQwIr/">
         </link>
         <updated>2023-07-02T13:41:54.000Z</updated>
         <summary type="html"><![CDATA[<p>Stay strong in your Christian journey and find inspiration in these wise sayings!</p>
@@ -59,8 +78,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[🌟 Shine Bright Like a Star! 🌟]]></title>
-        <id>https://dailybiblequotes.github.io/post/atQ-bH6l4/</id>
-        <link href="https://dailybiblequotes.github.io/post/atQ-bH6l4/">
+        <id>http://localhost:4000/post/atQ-bH6l4/</id>
+        <link href="http://localhost:4000/post/atQ-bH6l4/">
         </link>
         <updated>2023-06-28T10:16:19.000Z</updated>
         <summary type="html"><![CDATA[<p>Let your light shine before others and inspire them with the radiance of your faith! 💫</p>
@@ -82,8 +101,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[The Power of Prayer in Tough Times 🙏 ]]></title>
-        <id>https://dailybiblequotes.github.io/post/z4YKFAV2I/</id>
-        <link href="https://dailybiblequotes.github.io/post/z4YKFAV2I/">
+        <id>http://localhost:4000/post/z4YKFAV2I/</id>
+        <link href="http://localhost:4000/post/z4YKFAV2I/">
         </link>
         <updated>2023-06-27T06:29:42.000Z</updated>
         <summary type="html"><![CDATA[<p>🌟 Connect with a higher power for peace and perspective in challenging situations. Hold onto hope, faith, and trust in God's plan.</p>
@@ -101,8 +120,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Trusting God Through Life's Twists and Turns 🙏]]></title>
-        <id>https://dailybiblequotes.github.io/post/cK-AV-Y15/</id>
-        <link href="https://dailybiblequotes.github.io/post/cK-AV-Y15/">
+        <id>http://localhost:4000/post/cK-AV-Y15/</id>
+        <link href="http://localhost:4000/post/cK-AV-Y15/">
         </link>
         <updated>2023-06-25T02:47:51.000Z</updated>
         <summary type="html"><![CDATA[<p>When life gets tough, trust that God is working behind the scenes to restore and guide you. 🌟</p>
@@ -122,8 +141,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[🔒💖 Trust in God for True Happiness ]]></title>
-        <id>https://dailybiblequotes.github.io/post/7IcKu7JH1/</id>
-        <link href="https://dailybiblequotes.github.io/post/7IcKu7JH1/">
+        <id>http://localhost:4000/post/7IcKu7JH1/</id>
+        <link href="http://localhost:4000/post/7IcKu7JH1/">
         </link>
         <updated>2023-06-21T02:50:25.000Z</updated>
         <summary type="html"><![CDATA[<p>🙏🏼🌞 Let go of worries &amp; fears, find peace &amp; contentment in faith in a higher power - Trust in God!</p>
@@ -141,8 +160,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[🙏 Trust in God for Your Breakthrough 🙌]]></title>
-        <id>https://dailybiblequotes.github.io/post/ARy1MZBT6/</id>
-        <link href="https://dailybiblequotes.github.io/post/ARy1MZBT6/">
+        <id>http://localhost:4000/post/ARy1MZBT6/</id>
+        <link href="http://localhost:4000/post/ARy1MZBT6/">
         </link>
         <updated>2023-04-17T00:53:10.000Z</updated>
         <summary type="html"><![CDATA[<p>🌟 Keep your faith and let go of fear to receive blessings 🌟</p>
@@ -161,8 +180,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[🙏 Morning Prayer]]></title>
-        <id>https://dailybiblequotes.github.io/post/d9IPd3KDM/</id>
-        <link href="https://dailybiblequotes.github.io/post/d9IPd3KDM/">
+        <id>http://localhost:4000/post/d9IPd3KDM/</id>
+        <link href="http://localhost:4000/post/d9IPd3KDM/">
         </link>
         <updated>2023-04-12T13:25:34.000Z</updated>
         <summary type="html"><![CDATA[<p>🌞 Starting the day with gratitude and asking for guidance and strength from God.</p>
@@ -185,8 +204,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[🙏 Trusting God's Plan 🙏]]></title>
-        <id>https://dailybiblequotes.github.io/post/pdE7fge_R/</id>
-        <link href="https://dailybiblequotes.github.io/post/pdE7fge_R/">
+        <id>http://localhost:4000/post/pdE7fge_R/</id>
+        <link href="http://localhost:4000/post/pdE7fge_R/">
         </link>
         <updated>2023-04-11T12:32:03.000Z</updated>
         <summary type="html"><![CDATA[<p>🌟 God's plan is always perfect, even when it's painful 🌟</p>
@@ -202,27 +221,6 @@
 <p>💪 Trust in God's path, even when it's hard. Challenges are part of your journey. 💪</p>
 <p>🤫 When God is silent, He's working for your benefit. 🤫 He's molding you into the person you're meant to become, even if it's through pain.</p>
 <p>🙏 Have faith in His plan, and He'll guide you every step of the way. 🙏 You'll emerge stronger, ready to fulfill your purpose.</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💪🙏 The Power of Faith in Hard Times]]></title>
-        <id>https://dailybiblequotes.github.io/post/6Il-NypGJ/</id>
-        <link href="https://dailybiblequotes.github.io/post/6Il-NypGJ/">
-        </link>
-        <updated>2023-04-07T15:23:36.000Z</updated>
-        <summary type="html"><![CDATA[<p>🙏💪 Trusting God's plan in adversity is the ultimate test of faith.</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>🙏💪 Trusting God's plan in adversity is the ultimate test of faith.</p>
-<!-- more -->
-<div class="videoContainer">
-  <iframe  src="https://www.youtube.com/embed/pxtM7xi2EkM" title="The Power of Faith in Hard Times | Daily Bible Quotes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-<audio controls>
-  <source src="/audio/6Il-NypGJ.mp3" type="audio/mpeg">
-</audio>
-<p>🙏 The true test of faith comes when we face tough times, disappointments, and obstacles that seem insurmountable. It is in these moments that we must trust that everything happens for a reason, even if we don't understand it at the time. 🤔</p>
-<p>💪 Having faith means having the strength and courage to say &quot;Thank You, Lord&quot; even in the midst of adversity. It requires us to let go of our own desires and trust that God's plan for us is greater than anything we could have imagined. 🙌</p>
-<p>🌱 Every challenge is an opportunity to grow in faith and character. When life doesn't go as planned, remember that God has a plan for you. And, even when it's hard, always remember to say &quot;Thank You, Lord&quot; for the blessings in your life. 🙏🌟</p>
 ]]></content>
     </entry>
 </feed>
