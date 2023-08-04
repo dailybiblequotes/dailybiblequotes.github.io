@@ -1,19 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://dailybiblequotes.github.io</id>
     <title>Daily Bible Quotes</title>
-    <updated>2023-07-26T14:23:24.370Z</updated>
+    <updated>2023-08-04T13:06:37.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://dailybiblequotes.github.io"/>
+    <link rel="self" href="https://dailybiblequotes.github.io/atom.xml"/>
     <subtitle>Daily Bible Quotes is a website that provides daily inspirational quotes from the Holy Bible to strengthen your faith.</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://dailybiblequotes.github.io/images/avatar.png</logo>
+    <icon>https://dailybiblequotes.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Daily Bible Quotes</rights>
     <entry>
+        <title type="html"><![CDATA[Embracing God's Unfailing Love]]></title>
+        <id>https://dailybiblequotes.github.io/post/zJvVFnoqp/</id>
+        <link href="https://dailybiblequotes.github.io/post/zJvVFnoqp/">
+        </link>
+        <updated>2023-08-04T01:21:26.000Z</updated>
+        <summary type="html"><![CDATA[<p>Embracing God's Unfailing Love</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Embracing God's Unfailing Love</p>
+<!-- more -->
+<div class="videoContainer">
+  <iframe  src="https://www.youtube.com/embed/XG34W0k6lQo" title="Embracing God's Unfailing Love | Daily Bible Quotes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<audio controls>
+  <source src="/audio/XG34W0k6lQo.m4a" type="audio/mpeg">
+</audio>
+<p>Dear brothers and sisters in Christ, today we gather here to delve into a profound message from the Holy Scriptures, a verse that encapsulates the very essence of God's love for His children. Our chosen verse comes from the book of Jeremiah, chapter 31, verse 3: &quot;I have loved you with an everlasting love; I have drawn you with unfailing kindness.&quot;</p>
+<p>I. An Everlasting Love:<br>
+In this verse, we find a divine assurance of God's eternal love for us. It serves as a reminder that God's love is not bound by time or circumstance but remains constant and unchanging throughout all ages. Long before we were formed in our mother's womb, God loved us. In moments of triumph or despair, when we feel joyous or burdened, His love for us remains steadfast.</p>
+<p>It is essential to recognize that God's love is not conditional, nor does it fluctuate based on our performance or worthiness. Even in our weakest and most sinful moments, God's love continues to surround us, seeking to draw us nearer to Him.</p>
+<p>II. Unfailing Kindness:<br>
+The second part of this verse reveals another aspect of God's love—His unfailing kindness. This kindness is not superficial, but a deep, abiding compassion that reaches into the depths of our hearts. God's kindness is relentless, always seeking to rescue us from our struggles, heal our wounds, and guide us on the path of righteousness.</p>
+<p>In the midst of life's challenges, it is easy to lose sight of God's kindness, especially when we are faced with trials and tribulations. However, we must hold on to the truth that God's kindness is ever-present, even in the darkest hours of our lives.</p>
+<p>III. Responding to God's Love:<br>
+Knowing that God loves us with an everlasting love and unfailing kindness calls for a response from each one of us. As recipients of such boundless love, we are called to reciprocate that love and extend it to others. Jesus taught us in Matthew 22:37-39, &quot;Love the Lord your God with all your heart and with all your soul and with all your mind... Love your neighbor as yourself.&quot;</p>
+<p>Our response to God's love must be to surrender our lives fully to Him, allowing His love to transform us from within. We are called to seek a deeper relationship with Him through prayer, worship, and studying His Word, the Holy Bible. Only by drawing closer to God can we fully comprehend the magnitude of His love and experience the peace and joy that come from being in His presence.</p>
+<p>Conclusion:<br>
+In conclusion, let us never forget the powerful message contained in Jeremiah 31:3: &quot;I have loved you with an everlasting love; I have drawn you with unfailing kindness.&quot; May this verse resonate in our hearts and minds, reminding us of the immeasurable love that God has for each one of us. As we walk through life, may we be vessels of God's love, sharing His kindness and compassion with the world around us.</p>
+<p>Let us embrace God's love and allow it to shape us, so that in every step we take and every word we speak, we manifest the profound truth of God's unfailing love to a world that desperately needs it. Amen.</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[🌟 Embrace the Journey 🌟]]></title>
-        <id>http://localhost:4000/post/ilg_idyW5/</id>
-        <link href="http://localhost:4000/post/ilg_idyW5/">
+        <id>https://dailybiblequotes.github.io/post/ilg_idyW5/</id>
+        <link href="https://dailybiblequotes.github.io/post/ilg_idyW5/">
         </link>
         <updated>2023-07-26T02:23:09.000Z</updated>
         <summary type="html"><![CDATA[<p>🚀 Let your faith be your guiding star. 🌟 Trust the process and embrace every step of your journey! 🙏</p>
@@ -31,8 +62,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[🌟 Walking by Faith 🙏]]></title>
-        <id>http://localhost:4000/post/Hwb_aayVX/</id>
-        <link href="http://localhost:4000/post/Hwb_aayVX/">
+        <id>https://dailybiblequotes.github.io/post/Hwb_aayVX/</id>
+        <link href="https://dailybiblequotes.github.io/post/Hwb_aayVX/">
         </link>
         <updated>2023-07-07T02:45:34.000Z</updated>
         <summary type="html"><![CDATA[<p>Trust in the Lord and find strength for your journey. Let these words inspire your soul today. 🌈⛪️</p>
@@ -54,8 +85,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[🌟 The Faithful Path 🙏]]></title>
-        <id>http://localhost:4000/post/Iz5NqQwIr/</id>
-        <link href="http://localhost:4000/post/Iz5NqQwIr/">
+        <id>https://dailybiblequotes.github.io/post/Iz5NqQwIr/</id>
+        <link href="https://dailybiblequotes.github.io/post/Iz5NqQwIr/">
         </link>
         <updated>2023-07-02T13:41:54.000Z</updated>
         <summary type="html"><![CDATA[<p>Stay strong in your Christian journey and find inspiration in these wise sayings!</p>
@@ -78,8 +109,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[🌟 Shine Bright Like a Star! 🌟]]></title>
-        <id>http://localhost:4000/post/atQ-bH6l4/</id>
-        <link href="http://localhost:4000/post/atQ-bH6l4/">
+        <id>https://dailybiblequotes.github.io/post/atQ-bH6l4/</id>
+        <link href="https://dailybiblequotes.github.io/post/atQ-bH6l4/">
         </link>
         <updated>2023-06-28T10:16:19.000Z</updated>
         <summary type="html"><![CDATA[<p>Let your light shine before others and inspire them with the radiance of your faith! 💫</p>
@@ -101,8 +132,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[The Power of Prayer in Tough Times 🙏 ]]></title>
-        <id>http://localhost:4000/post/z4YKFAV2I/</id>
-        <link href="http://localhost:4000/post/z4YKFAV2I/">
+        <id>https://dailybiblequotes.github.io/post/z4YKFAV2I/</id>
+        <link href="https://dailybiblequotes.github.io/post/z4YKFAV2I/">
         </link>
         <updated>2023-06-27T06:29:42.000Z</updated>
         <summary type="html"><![CDATA[<p>🌟 Connect with a higher power for peace and perspective in challenging situations. Hold onto hope, faith, and trust in God's plan.</p>
@@ -120,8 +151,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Trusting God Through Life's Twists and Turns 🙏]]></title>
-        <id>http://localhost:4000/post/cK-AV-Y15/</id>
-        <link href="http://localhost:4000/post/cK-AV-Y15/">
+        <id>https://dailybiblequotes.github.io/post/cK-AV-Y15/</id>
+        <link href="https://dailybiblequotes.github.io/post/cK-AV-Y15/">
         </link>
         <updated>2023-06-25T02:47:51.000Z</updated>
         <summary type="html"><![CDATA[<p>When life gets tough, trust that God is working behind the scenes to restore and guide you. 🌟</p>
@@ -141,8 +172,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[🔒💖 Trust in God for True Happiness ]]></title>
-        <id>http://localhost:4000/post/7IcKu7JH1/</id>
-        <link href="http://localhost:4000/post/7IcKu7JH1/">
+        <id>https://dailybiblequotes.github.io/post/7IcKu7JH1/</id>
+        <link href="https://dailybiblequotes.github.io/post/7IcKu7JH1/">
         </link>
         <updated>2023-06-21T02:50:25.000Z</updated>
         <summary type="html"><![CDATA[<p>🙏🏼🌞 Let go of worries &amp; fears, find peace &amp; contentment in faith in a higher power - Trust in God!</p>
@@ -160,8 +191,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[🙏 Trust in God for Your Breakthrough 🙌]]></title>
-        <id>http://localhost:4000/post/ARy1MZBT6/</id>
-        <link href="http://localhost:4000/post/ARy1MZBT6/">
+        <id>https://dailybiblequotes.github.io/post/ARy1MZBT6/</id>
+        <link href="https://dailybiblequotes.github.io/post/ARy1MZBT6/">
         </link>
         <updated>2023-04-17T00:53:10.000Z</updated>
         <summary type="html"><![CDATA[<p>🌟 Keep your faith and let go of fear to receive blessings 🌟</p>
@@ -180,8 +211,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[🙏 Morning Prayer]]></title>
-        <id>http://localhost:4000/post/d9IPd3KDM/</id>
-        <link href="http://localhost:4000/post/d9IPd3KDM/">
+        <id>https://dailybiblequotes.github.io/post/d9IPd3KDM/</id>
+        <link href="https://dailybiblequotes.github.io/post/d9IPd3KDM/">
         </link>
         <updated>2023-04-12T13:25:34.000Z</updated>
         <summary type="html"><![CDATA[<p>🌞 Starting the day with gratitude and asking for guidance and strength from God.</p>
@@ -200,27 +231,6 @@
 <p>🕯️ Help me to be a shining light to those around me, spreading kindness and compassion wherever I go. May my words and actions reflect your love and grace.</p>
 <p>🙏 Thank you for being present in my life and bringing hope and peace. Bless this day and all that it holds.</p>
 <p>🙏 In Jesus' name, I pray. Amen.</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🙏 Trusting God's Plan 🙏]]></title>
-        <id>http://localhost:4000/post/pdE7fge_R/</id>
-        <link href="http://localhost:4000/post/pdE7fge_R/">
-        </link>
-        <updated>2023-04-11T12:32:03.000Z</updated>
-        <summary type="html"><![CDATA[<p>🌟 God's plan is always perfect, even when it's painful 🌟</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>🌟 God's plan is always perfect, even when it's painful 🌟</p>
-<!-- more -->
-<div class="videoContainer">
-  <iframe  src="https://www.youtube.com/embed/4RlhvcPA10k" title="Trusting God's Plan | Daily Bible Quotes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-<audio controls>
-  <source src="/audio/pdE7fge_R.mp3" type="audio/mpeg">
-</audio>
-<p>💪 Trust in God's path, even when it's hard. Challenges are part of your journey. 💪</p>
-<p>🤫 When God is silent, He's working for your benefit. 🤫 He's molding you into the person you're meant to become, even if it's through pain.</p>
-<p>🙏 Have faith in His plan, and He'll guide you every step of the way. 🙏 You'll emerge stronger, ready to fulfill your purpose.</p>
 ]]></content>
     </entry>
 </feed>
